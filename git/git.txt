@@ -1,0 +1,19 @@
+//------------First pushing code on server-----------------//
+
+git init
+git add .
+git commit -m "message"
+git status
+git branch -M branch name
+git remote add origin url
+git push -u origin branch name
+git checkout -b branch name
+
+//-----------------------------------------------------------------//
+
+//------------------Second time pushing code---------------------------//
+git add .
+ git commit -m "message"
+ git push origin branch_name
+
+//---------------------------------------------------------------------------//
